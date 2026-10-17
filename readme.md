@@ -1,5 +1,5 @@
 <center>
-    <img src="/assets/banner.png" alt="Mayvn Banner"  width="520">
+    <img src="/assets/banner.png" alt="Mayvn Banner">
 </center>
 
 ---
