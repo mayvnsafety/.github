@@ -27,9 +27,3 @@ Want to know more? Head over to our website:
 ### [**Visit mayvn.org**](https://mayvn.org)
 
 </div>
-
----
-
-<div align="center">
-  <sub>Made with care by the Mayvn team.</sub>
-</div>
